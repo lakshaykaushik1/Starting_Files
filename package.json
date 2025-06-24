@@ -1,0 +1,30 @@
+{
+  "name": "@lakshaykaushik1/starting-files",
+  "version": "1.0.0",
+  "description": "A simple HTML/CSS/JS boilerplate for quick project starts.",
+  "main": "index.html",
+  "bin": {
+    "create-starting-files": "./script.js"
+  },
+  "scripts": {
+    "start": "echo 'Open index.html in browser'"
+  },
+  "keywords": [
+    "starter",
+    "template",
+    "html",
+    "css",
+    "javascript",
+    "boilerplate"
+  ],
+  "author": "Lakshay Kaushik",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshaykaushik1/Starting_Files.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lakshaykaushik1/Starting_Files/issues"
+  },
+  "homepage": "https://github.com/lakshaykaushik1/Starting_Files#readme"
+}
