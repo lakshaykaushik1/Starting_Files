@@ -1,7 +1,11 @@
 # 🚀 Starting Files Template
 
 Welcome to the **Starting_Files** repository! This project provides a clean, minimal, and customizable starting point for any new web development project.
-
+<div align="right">  
+  <a href="https://creativecommons.org/licenses/by/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" />
+  </a>
+</div>
 <div align="center">
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -9,6 +13,7 @@ Welcome to the **Starting_Files** repository! This project provides a clean, min
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </div>
+
 
 ## 📂 What's Included
 
