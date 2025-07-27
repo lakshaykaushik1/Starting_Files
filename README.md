@@ -1,4 +1,4 @@
-# 🚀 Starting Files Template!
+# 🚀 Starting Files Template
 
 Welcome to the **Starting_Files** repository! This project provides a clean, minimal, and customizable starting point for any new web development project.
 <div align="right">  
